@@ -1,0 +1,45 @@
+i.icon{
+    font-size: 2em;
+}
+#blog-title {
+    font-size: 5em;
+    
+}
+#navbar{
+    border: none;
+    box-shadow: none;
+}
+.header-menu {
+    margin: 35px auto 30px auto;
+    
+}
+#main-image {
+    max-width: 100%;
+}
+body {
+    text-align: center;
+    margin-top: 2em;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: white;
+    
+}
+
+#right-sidebar {
+    width: 300px;
+    float: left;
+    margin: 0 15px;
+}
+#delete {
+    display: inline;
+}
+#blogmain {
+ padding: 10px;
+ width: auto;
+ box-shadow: 2px 2px 2px 2px;
+}
+
+#menu{
+    background-color: #3eaca8;
+    border: none;
+}
